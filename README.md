@@ -1,7 +1,7 @@
 The *ps* utility designed to work with systemd
 ==============================================
 
-*ps* has always be a complicated tool. Do you want to list only your process?
+*ps* has always been a complicated tool. Do you want to list only your process?
 Do you want to display session leaders? Processes with a tty? Maybe those
 associated with the current terminal?
 
